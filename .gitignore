@@ -23,7 +23,10 @@
 Assets/Plugins/Editor/VSCode.cs
 
 Assets/Plugins/Editor/VSCode.cs.meta
+
 /Assets/WSATestCertificate.pfx
+
+/Assets/WSATestCertificate.pfx.meta
 
 hololens-with-leap-motion.sln
 
